@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主色调 -->
+    <color name="my_primary">#3F51B5</color> <!-- 暗蓝色 -->
+
+    <!-- 强调色 -->
+    <color name="my_accent">#FF4081</color> <!-- 粉红色 -->
+
+    <!-- 文字颜色 -->
+    <color name="my_text_primary">#212121</color> <!-- 黑色 -->
+    <color name="my_text_secondary">#757575</color> <!-- 灰色 -->
+    <color name="my_text_light">#FFFFFF</color> <!-- 白色 -->
+
+    <!-- 背景颜色 -->
+    <color name="my_background">#F5F5F5</color> <!-- 浅灰色 -->
+    <color name="my_card">#FFFFFF</color> <!-- 白色 -->
+
+    <!-- 分割线颜色 -->
+    <color name="my_divider">#BDBDBD</color> <!-- 灰色 -->
+
+    <!-- 按钮颜色 -->
+    <color name="my_button_normal">#3F51B5</color> <!-- 暗蓝色 -->
+    <color name="my_button_pressed">#303F9F</color> <!-- 暗深蓝色 -->
+    <color name="my_button_disabled">#BDBDBD</color> <!-- 灰色 -->
+
+    <!-- 其他颜色 -->
+    <color name="my_red">#FF0000</color> <!-- 红色 -->
+    <color name="my_blue">#0000FF</color> <!-- 蓝色 -->
+    <color name="my_green">#00FF00</color> <!-- 绿色 -->
+    <color name="my_yellow">#FFFF00</color> <!-- 黄色 -->
+    <color name="my_purple">#800080</color> <!-- 紫色 -->
+    <color name="my_pink">#FFC0CB</color> <!-- 粉色 -->
+    <color name="my_orange">#FFA500</color> <!-- 橙色 -->
+    <color name="my_gray">#808080</color> <!-- 灰色 -->
+    <color name="my_brown">#A52A2A</color> <!-- 棕色 -->
+    <color name="my_cyan">#00FFFF</color> <!-- 青色 -->
+    <color name="my_teal">#008080</color> <!-- 蓝绿色 -->
+    <color name="my_lime">#00FF00</color> <!-- 青柠绿色 -->
+    <color name="my_deep_purple">#673AB7</color> <!-- 深紫色 -->
+    <color name="my_indigo">#4B0082</color> <!-- 靛蓝色 -->
+    <color name="my_light_green">#8BC34A</color> <!-- 浅绿色 -->
+    <color name="my_light_blue">#87CEFA</color> <!-- 浅蓝色 -->
+    <color name="my_deep_orange">#FF5722</color> <!-- 深橙色 -->
+    <color name="my_deep_pink">#FF1493</color> <!-- 深粉色 -->
+    <color name="my_amber">#FFC107</color> <!-- 琥珀色 -->
+    <color name="my_deep_red">#8B0000</color> <!-- 深红色 -->
+    <color name="my_deep_green">#006400</color> <!-- 深绿色 -->
+    <color name="my_sky_blue">#1E90FF</color> <!-- 天蓝色 -->
+    <color name="my_deep_blue">#000080</color> <!-- 深蓝色 -->
+    <color name="my_deep_gray">#333333</color> <!-- 深灰色 -->
+    <color name="my_light_gray">#CCCCCC</color> <!-- 浅灰色 -->
+    <color name="my_black">#000000</color> <!-- 黑色 -->
+    <color name="my_white">#FFFFFF</color> <!-- 白色 -->
+    <color name="my_transparent">#00000000</color> <!-- 透明色 -->
+</resources>
